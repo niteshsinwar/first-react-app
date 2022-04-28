@@ -1,4 +1,4 @@
-﻿#📌Site link:  https://notes-keeper-app-blush.vercel.app/
+- Site link:  https://notes-keeper-app-blush.vercel.app/
 Made a notes keeper apps with react jsx framework
 - Features used:
 1. React-dom
