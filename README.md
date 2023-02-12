@@ -1,8 +1,11 @@
-- Notes Keeper app 
-- Site link:  https://notes-keeper-app-blush.vercel.app/
-- Made a notes keeper apps with react jsx framework
-- Features used:
-1. React-dom
-2. React-hooks
-3. React-state
-4. React-components
+# React Notes App
+A simple notes app built with React.
+
+## Usage
+- Clone the repository: git clone https://github.com/example/react-notes-app.git
+- Install dependencies: npm install
+- Run the app: npm start
+## Features
+- Add new notes
+- Delete notes
+- Fully responsive
